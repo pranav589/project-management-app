@@ -5,11 +5,11 @@ class SignIn extends Component {
     
   }
   handleChange = (e) => {
-    console.log(e)
+    
   }
   handleSubmit = (e) => {
     
-    console.log(this.state);
+    
   }
   render() {
     return (
